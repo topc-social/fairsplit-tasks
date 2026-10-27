@@ -5,7 +5,7 @@ Fairsplit's public project repo: tasks and the Neki ledger for [Fairsplit](https
 - [Issues](https://github.com/topc-social/fairsplit-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Fairsplit = your Neki / all Neki there.
 
-Code: [kamal0808/fairsplit](https://github.com/kamal0808/fairsplit), private, shared source: members can read and contribute.
+Code: private, shared source. Members get access to read and contribute.
 
 ## How it works
 
