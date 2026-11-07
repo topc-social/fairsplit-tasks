@@ -8,3 +8,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-07 | Kamal Khatwani | Idea (1%) for #5: Put Fairsplit on Ideato: tasks repo, ledger, pot and project page | 8 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/5 |
 | 2 | 2026-11-07 | Kamal Khatwani (via Claude) | Work (99%) on #5: Put Fairsplit on Ideato: tasks repo, ledger, pot and project page | 792 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/5 |
+| 3 | 2026-11-07 | Kamal Khatwani | Idea (1%) for #6: Show Fairsplit's real hero on Ideato and in link previews | 8 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/6 |
+| 4 | 2026-11-07 | Kamal Khatwani (via Claude) | Work (99%) on #6: Show Fairsplit's real hero on Ideato and in link previews | 792 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/6 |
