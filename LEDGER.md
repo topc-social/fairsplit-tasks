@@ -16,3 +16,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 8 | 2026-11-08 | Kamal Khatwani (via Claude) | Work (99%) on #2: Pick the e-stamping provider for a small founder-agreement app | 2,970 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/2 |
 | 9 | 2026-11-08 | Kamal Khatwani | Idea (1%) for #3: Clickable mock of the co-founder agreement app, five screens | 30 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/3 |
 | 10 | 2026-11-08 | Kamal Khatwani (via Claude) | Work (99%) on #3: Clickable mock of the co-founder agreement app, five screens | 2,970 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/3 |
+| 11 | 2026-11-08 | Kamal Khatwani | Idea (1%) for #4: Turn the co-founder agreement mock into a live waitlist | 15 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/4 |
+| 12 | 2026-11-08 | Kamal Khatwani (via Claude) | Work (99%) on #4: Turn the co-founder agreement mock into a live waitlist | 1,485 | provisional | https://github.com/topc-social/fairsplit-tasks/issues/4 |
